@@ -16,3 +16,6 @@
 [submodule "react-course-2-6"]
 	path = react-course-2-6
 	url = https://github.com/jueltter/react-course-2-6.git
+[submodule "react-course-2-7"]
+	path = react-course-2-7
+	url = https://github.com/jueltter/react-course-2-7.git
