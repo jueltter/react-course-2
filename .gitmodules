@@ -4,3 +4,6 @@
 [submodule "react-course-2-2"]
 	path = react-course-2-2
 	url = https://github.com/jueltter/react-course-2-2.git
+[submodule "react-course-2-3"]
+	path = react-course-2-3
+	url = https://github.com/jueltter/react-course-2-3.git
